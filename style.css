@@ -2,6 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
 
 }
+h1{
+font-size:40px ;
+}
 .sp{
     color:blue;
 }
@@ -9,13 +12,16 @@ body{
     display: flex;
     margin-bottom: 100px;
 }
+.border{
+    border-left:5px solid darkblue;
+}
 .pro{
-    width: 50%;
+    width: 100%;
     padding: 40px;
 
 }
 .pro img{
-    width: 80%;
+    width:70%;
 }
 .link{
     text-decoration: none;
@@ -46,4 +52,9 @@ body{
 }
 .center{
     text-align: center;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color:darkblue;
 }
