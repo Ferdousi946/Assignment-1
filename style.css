@@ -58,4 +58,8 @@ footer{
     text-align: center;
     color: white;
     background-color:darkblue;
+    
+}
+footer p{
+    margin: 0;
 }
